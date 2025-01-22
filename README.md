@@ -19,7 +19,7 @@ This project showcases the use of SQL to analyze retail sales data. The aim is t
 ### 1. Database Setup
 
 - **Database Creation**: The project starts by creating a database named `sql_project_p2`.
-- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount. Thereafter, you need to import the data from the .csv file given in the repo for further data analysis. 
 
 ```sql
 CREATE DATABASE sql_project_p2;
